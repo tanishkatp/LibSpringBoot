@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>LibSpringBoot</artifactId>
+	<artifactId>SpringBoot</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>LibSpringBoot</name>
+	<name>LibSpringBootApp</name>
 	<description>Library management</description>
 	<properties>
 		<java.version>8</java.version>
